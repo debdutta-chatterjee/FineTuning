@@ -1,0 +1,10 @@
+transformers[torch]
+datasets
+accelerate
+tokenizers
+seqeval
+evaluate
+nltk
+rouge_score
+absl-py
+protobuf
